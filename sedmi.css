@@ -1,0 +1,133 @@
+body {
+	margin: 10px;
+	background-color: #5e6c5b;
+	background-image: url("poz.jpg");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+}
+
+h1{
+	text-align: center;
+	font-size: 40px;
+	text-transform: uppercase;
+	font-family: 'Rowdies', sans-serif;
+	color:#162a2c;
+}
+
+h3{
+	font-family: 'Rowdies', sans-serif;
+	color: white;
+	
+}
+p {
+	text-align: center;
+	color: white;
+	font-family:;
+	font-size: 20px;
+	
+}
+a{
+	color: white;
+}
+a:visited {
+  color: white;
+}
+
+img {
+	height:auto;
+	width:300px;
+	border-style: solid;
+	border-color: #f4efe6;
+	padding:3px;
+	margin:5px 5px;
+
+}
+#s1 {
+	float:left;
+}
+#s2 {
+	float:right;
+}
+
+embed {
+	position:absolute;
+}
+
+#e1 {
+	top:150px;
+	left:350px;
+	}
+	
+#e2 {
+	top:150px;
+	right:350px;
+	}
+	
+iframe{
+	position:absolute;
+	width:300px;
+	height:300px;
+	border-radius: 10px;
+	
+}
+#f1 {
+	top:600px;
+	left:350px;
+	}
+#f2 {
+	top:600px;
+	right:350px;
+	}
+	
+audio{
+	position:absolute;
+}
+
+#a1 {
+	top:550px;
+	left:350px;
+	}
+	
+#a2 {
+	top:550px;
+	right:350px;
+	}
+	
+
+div {
+position:absolute;	
+	
+}
+
+.tekst {
+	border-radius: 50%;
+	background-color: #162a2c;
+	height:300px;
+	width:300px;
+	text-align:center;
+	padding:2px;
+	margin:10px auto;
+}
+#t1 {
+	top:660px;
+	left:10px;
+}
+
+#t2 {
+	top:660px;
+	right:10px;
+}
+
+.button {
+  background-color: black; 
+  border: none;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 15px;
+  margin: 4px 2px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
